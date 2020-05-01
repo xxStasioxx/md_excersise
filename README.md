@@ -3,7 +3,7 @@ Cwiczenie z markdown
 ## Zadanie 
 **Nazywam sie Łukasz Grygiel**
 
-*Mam  23 lata, studiuję informatykę zaocznie *
+* Mam 23 lata, studiuję informatykę *
 
 Link do strony WSEI: (https://dl.wsei.lubin.pl/ )
 
