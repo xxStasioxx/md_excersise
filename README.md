@@ -1,7 +1,7 @@
 # md_excersise
 Cwiczenie z markdown
 ## Zadanie 
-** Nazywam sie Łukasz Grygiel  **
+**Nazywam sie Łukasz Grygiel**
 
 *Mam  23 lata, studiuję informatykę zaocznie *
 
